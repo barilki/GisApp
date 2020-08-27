@@ -21,7 +21,7 @@ src="https://www.iconfinder.com/icons/381383/download/png/128">
 
 # Example
 
-<img src="https://media0.giphy.com/media/dBD5LsDIqFbBCBjC2A/giphy.gif">
+<img src="https://github.com/barilki/GisApp/blob/master/example.gif?raw=true">
 
 
 
